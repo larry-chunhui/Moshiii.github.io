@@ -6,9 +6,21 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download PDF version [Here](http://Moshiii.github.io/files/Moshi Wei Machine learning NLP.pdf)
+Download PDF version [Here](http://larry-chunhui.github.io/files/Moshi Wei Machine learning NLP.pdf)
 
 {% include base_path %}
+
+## Education
+
+### University of Waterloo, MASc, Mechanical and Mechatronics Engineering, GPA: 3.9/4.0
+Jan. 2018 - Jan. 2020
+<br/><br/>
+### Beihang University, MASc, Aerospace Engineering, GPA: 4.0/4.0
+Sep. 2014 - Jun. 2017
+<br/><br/>
+### Beihang University, BS, Aerospace Engineering, GPA: 4.0/4.0  
+Sep. 2009 - Jun. 2013 
+
 
 ## Experience
 
@@ -32,53 +44,35 @@ May. 2019 – Present
 
 * Run a RBC mutual fund portfolio with 9.5% annual return by analysing performance data using Python
 
-### Master Research Assistant, University of Waterloo
-Dec. 2017 – Sep. 2019
 
-* Increased the accuracy of Automated Program Repair model on Quixbugs benchmark by 240% by proposing novel approach using Pytorch NMT model with CRNN layer and code mutation templates
-
-* Reduced the encoder and decoder dictionary size from 50000+ to 200 tokens and training time from 100+ hours to 20 hours by creating novel NMT architecture
-
-* Created road slippage detection model with 81% accuracy using VGG16 model and OpenCV
-
-### Software Developer, AVG Technologies
-May. 2016 – Aug. 2016
-<br/><br/>
-### Full-Stack Developer, Mitel
-Sep. 2015 – Dec. 2015
-<br/><br/>
-### Full-Stack Developer, PDCI Market Access
-May. 2015 – Aug. 2015
-<br/><br/>
-### Web Developer, Aboriginal Affairs and Northern Development Canada
-Apr. 2014 – Dec. 2014
   
 ## Awards
 
-* Best Hackathon Project Award at Achievers 2019: ML-based Recommender system       
-* 2019 Innovation Award at Achievers
-* Received Full Tuition Scholarships for Uwaterloo MASc. Software Engineering program
-* Received A+ on Milestone project: AR based Poke-Mon Go using OpenCV and Unity3D
-* Winner of the Twitter NLP sentiment analysis contest at UOttawa for highest model accuracy out of 70 participants 
-* Top 4% out of 100 participants for MNIST digits recognition challenge with 98.8% model accuracy using fine-tuned K-means model	
+* International Graduate Student Award, University of Waterloo, Jan. 2018 - Dec. 2019  
+* Graduate Research Scholarship, University of Waterloo, Jan. 2018 - Dec. 2019
+* Graduate Research Scholarship, Beihang University, Sep. 2014 - Jun. 2017
+* Second-class Prize in Feng Ru Cup, Beihang University, Jun. 2012
+* Second-class Prize for Mathematics Contest in Beijing, China, Oct. 2012
+* National Encouragement Scholarship, Ministry of Education, China, Oct. 2011
+* First-class Prize Scholarship, Beihang University, Oct. 2011
+* Third-class Prize for Physics Olympiad in Tianjin, China, Oct. 2008
 
-## Education
 
-### University of Waterloo, Master of Computer Software Engineering
-Dec 2017 – Sep 2019
-<br/><br/>
-### University of Ottawa, Bachelor of Computer Science, Horner with Co-op
-Sep 2012 –  Dec 2017
+
 
 ## Publications
 
-### Abstraction Mechanism on Neural Machine Translation Models for Automated Program Repair
-Author: Moshi Wei, Lin Tan  
-Sep 23rd 2019
+### Multiphase modelling and meshing requirements for predicting naval ship maneuvering forces (Under Review). 
+Author: Chunhui Liu, Xiaohua Wu, Kevin McTaggart, Jean-Pierre Hickey
 <br/><br/>
-### Ensemble Learning using Convolution Neural Machine Translation for Automatic Program Repair
-Author:  Thibaud Lutellier, Lawrence Pang, Viet Hung Pham, Moshi Wei, Lin Tan  
-Jun 20th 2018
+### Modelling requirements for dynamic multiphase ship simulations, 27th Annual Conference of the CFD Society of Canada, BFE5-00133, Jun. 2019, Western University, Canada.
+Author: Chunhui Liu, Xiaohua Wu, Kevin McTaggart, Jean-Pierre Hickey
+<br/><br/>
+### Prediction of Warship Manoeuvring Coefficients using OpenFOAM, Technical Report, Defence Research and Development Canada, Atlantic Research Centre, 2019.
+Author: Chunhui Liu, Jin Sing Sia, Jean-Pierre Hickey, Xiaohua Wu
+<br/><br/>
+### Direct numerical simulation of stationary homogeneous shear turbulence, Proceeding of National Conference on Fluid Mechanics, CSTAM, A56-B0127, Oct. 2016, Nanjing, China.
+Author: Chunhui Liu, Jinbai Zhang, Hui Zou
 
 
 ## Posts
