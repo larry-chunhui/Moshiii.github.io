@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Moshi"
+title: "About Chunhui"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Moshi's home page! 
+This is Chunhui's home page! 
 
-This is the link to my [Resume](https://moshiii.github.io/cv/)
+This is the link to my [Resume](https://larry-chunhui.github.io/cv/)
